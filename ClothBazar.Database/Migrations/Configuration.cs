@@ -12,6 +12,7 @@ namespace ClothBazar.Database.Migrations
             AutomaticMigrationsEnabled = false;
         }
 
+
         protected override void Seed(ClothBazar.Database.CBContext context)
         {
             //  This method will be called after migrating to the latest version.
